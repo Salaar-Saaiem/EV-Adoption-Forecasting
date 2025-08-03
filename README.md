@@ -43,7 +43,7 @@ Try the app directly on Hugging Face Spaces: [![Hugging Face Space](https://img.
 
 ---
 
-## <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="32" height="32"></picture> Screenshots
+## <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/3084dfbbb7aef9f278cede4f284f110f36aebc0c/Assets/513.gif?raw=true" alt="📸" width="32" height="32"></picture> Screenshots
 
 ### EV Forecast by County  
 ![P1](Assets/Predictingfor1.png)
