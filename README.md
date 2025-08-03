@@ -1,4 +1,4 @@
-# <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f697/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f697/512.gif" alt="🚗" width="32" height="32"></picture> EV Adoption Forecast Tool (Streamlit + ML Model)
+# <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/516.gif?raw=true" alt="🚗" width="32" height="32"></picture> EV Adoption Forecast Tool (Streamlit + ML Model)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salaar-Saaiem.EV-Adoption-Forecasting)<br>
 Forecast the growth of Electric Vehicles over a 3-year horizon using historical data, machine learning, and an interactive Streamlit dashboard.
 
@@ -6,13 +6,13 @@ Forecast the growth of Electric Vehicles over a 3-year horizon using historical 
 
 ----
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32"></picture> Live Deployment
+## <picture><img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/518.gif?raw=true" alt="👾" width="32" height="32"></picture> Live Deployment
 
 Try the app directly on Hugging Face Spaces: [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Live%20Demo-blue?logo=streamlit&logoColor=white)](https://huggingface.co/spaces/Salaar-Saaim/EV-Demand-Prediction)
 
 ---
 
-## <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture> Core Features
+## <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/515.gif?raw=true" alt="🚀" width="32" height="32"></picture> Core Features
 
 - **County-Level Forecasting** – Predict cumulative EV growth for individual Washington counties.
 - **3-Year Forecast Horizon** – Uses last 6 months of trends to project the next 36 months.
@@ -23,13 +23,13 @@ Try the app directly on Hugging Face Spaces: [![Hugging Face Space](https://img.
 - **Deployment-Ready** – Fully containerized with Dockerfile and auto-deploy support via Hugging Face.
 
 ---
-## <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f43e/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f43e/512.gif" alt="🐾" width="32" height="32"></picture> Architecture
+## <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/520.gif?raw=true" alt="🐾" width="32" height="32"></picture> Architecture
 ![Architecture](Assets/Architecture.png) <!-- Replace with your image path or URL -->
 
 ---
 <!-- ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img --src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32"></picture> **ML & Data Strategy** -->
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"></picture> **Tech Stack**
+## <picture><img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/514.gif?raw=true" alt="⚙" width="32" height="32"></picture> **Tech Stack**
 
 | Tool | Purpose |
 |------|---------|
@@ -64,7 +64,7 @@ Try the app directly on Hugging Face Spaces: [![Hugging Face Space](https://img.
 
 ---
 
-## <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac6/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac6/512.gif" alt="🫆" width="32" height="32"></picture> Ownership & License
+## <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/517.gif?raw=true" alt="🫆" width="32" height="32"></picture> Ownership & License
 
 This project is the intellectual property of [Saaiem Salaar](https://www.linkedin.com/in/salaarsaaiem525) and is licensed under the [MIT License](LICENSE). This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software for personal or commercial purposes, provided that proper credit is given and the original license and copyright notice are included in all copies or substantial portions of the software. The software is provided "as is", without any warranty of any kind, express or implied, and the author is not liable for any claims, damages, or other liabilities arising from its use.
 
