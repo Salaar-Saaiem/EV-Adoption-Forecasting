@@ -54,7 +54,7 @@ Try the app directly on Hugging Face Spaces: [![Hugging Face Space](https://img.
 ---
 
 
-## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="32" height="32"></picture> Why This Project Stands Out
+## <picture> <source srcset="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp](https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/80c12028daea3e17fb2eae40f75e8878f56803aa/Assets/512.webp)"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="32" height="32"></picture> Why This Project Stands Out
 
 - Real-world application aligned with EV policy and sustainability.
 - Uses thoughtful feature engineering, not just raw time series.
