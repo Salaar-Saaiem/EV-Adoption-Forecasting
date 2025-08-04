@@ -8,7 +8,7 @@ Forecast the growth of Electric Vehicles over a 3-year horizon using historical 
 
 ## <picture><img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/518.gif?raw=true" alt="👾" width="32" height="32"></picture> Live Deployment
 
-Try the app directly on Hugging Face Spaces: [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Live%20Demo-blue?logo=streamlit&logoColor=white)](https://huggingface.co/spaces/Salaar-Saaim/EV-Demand-Prediction)
+Try the app directly on Hugging Face Spaces: [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Live%20Demo-blue?logo=streamlit&logoColor=white)](https://huggingface.co/spaces/Salaar-Saaiem/EV-Demand-Prediction)
 
 ---
 
