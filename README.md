@@ -1,5 +1,6 @@
-# <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/516.gif?raw=true" alt="🚗" width="32" height="32"></picture> EV Adoption Forecast Tool (Streamlit + ML Model)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salaar-Saaiem.EV-Adoption-Forecasting)<br>
+# <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/516.gif?raw=true" alt="🚗" width="32" height="32"></picture> EV Adoption Forecast Tool (Streamlit + ML Model)
+
 Forecast the growth of Electric Vehicles over a 3-year horizon using historical data, machine learning, and an interactive Streamlit dashboard.
 
 **Project Summary**: This project builds a predictive model to estimate electric vehicle (EV) adoption trends at the county level across Washington state. The core engine is a time series forecasting model trained on real, structured EV registration data. It captures local patterns and extrapolates them 3 years into the future. The results are delivered through an intuitive web app with dynamic visualizations, multi-county comparison, and real-time insights.
